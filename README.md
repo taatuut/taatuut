@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taatuut
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning (a tiny bit of) Rust and exploring Viam Robotics
 - 💞️ I’m looking to collaborate on anything geospatial
 - 📫 Ping me at emil@basaltaura.nl
 
